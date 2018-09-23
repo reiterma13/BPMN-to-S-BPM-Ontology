@@ -27,13 +27,6 @@ This is a proposal for the transformation from BPMN to S-BPM OWL and contains a 
 - dc:Font
 - di:waypoint
 
-1. Download the file BPMN2SBPM.jar.
-2. Copy the BPMN file to the same filepath.
-3. Use CMD to naviagte to the jar location: cd filepath
-4. Use the following command to execute the jar file: java -jar BPMN2SBPM.jar
-5. Enter the bpmn file name: test.bpmn
-6. View Generated-S-BPM-OWL.owl in logs.
-
 -----------------------------------------------------------------------------------------------------
 Installation and Configuration 
 -----------------------------------------------------------------------------------------------------
@@ -77,3 +70,15 @@ Graphviz
 OWL VIZ
 - Is a Protege Plugin and depends on Graphviz.
 - Protege: File -> Preferences -> OWL Viz -> Path to DOT ..\graphviz-2.38\release\bin\dot.exe
+
+-----------------------------------------------------------------------------------------------------
+Execution of BPMN2SBPM.jar
+-----------------------------------------------------------------------------------------------------
+
+1. Download the file BPMN2SBPM.jar.
+2. Copy the BPMN file to the same filepath.
+3. Use CMD to naviagte to the jar location: cd filepath
+4. Use the following command to execute the jar file: java -jar BPMN2SBPM.jar
+5. Enter the bpmn file name: test.bpmn
+6. View Generated-S-BPM-OWL.owl in logs.
+
