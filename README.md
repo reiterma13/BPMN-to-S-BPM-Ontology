@@ -1,5 +1,31 @@
 # BPMN-to-S-BPM-Ontology
-BPMN2SBPM is an executeable JAR file, which takes a BPMN file as input and generates a S-BPM OWL file.
+The Prototype BPMN2SBPM is an executeable JAR file, which takes a BPMN file as input and generates a S-BPM OWL file. This is a proposal for the transformation from BPMN to S-BPM OWL and contains a limited Set of BPMN Elements, which are allowed.
+
+- bpmn2:collaboration
+- bpmn2:definitions
+- bpmn2:endEvent
+- bpmn2:exclusiveGateway
+- bpmn2:incoming
+- bpmn2:messageEventDefinition
+- bpmn2:messageFlow
+- bpmn2:outgoing
+- bpmn2:participant
+- bpmn2:process
+- bpmn2:receiveTask
+- bpmn2:sendTask
+- bpmn2:sequenceFlow
+- bpmn2:startEvent
+- bpmn2:task
+- bpmn2:userTask
+- bpmndi:BPMNDiagram
+- bpmndi:BPMNEdge
+- bpmndi:BPMNLabel
+- bpmndi:BPMNLabelStyle
+- bpmndi:BPMNPlane
+- bpmndi:BPMNShape
+- dc:Bounds
+- dc:Font
+- di:waypoint
 
 1. Download the file BPMN2SBPM.jar.
 2. Copy the BPMN file to the same filepath.
