@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Reiter/Desktop/BPMN2SBPM/BPMN2SBPM.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/IPPRProjectFiles/src/documentation/jarDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="true" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=IPPRProjectFiles/src&lt;{BPMN2OWL.java[BPMN2OWL" manifestLocation="/IPPRProjectFiles/src/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <folder path="/owlapi-fixers/target"/>
+        <file path="/owlapi-apibinding/pom.xml"/>
+        <file path="/owlapi-rio/.classpath"/>
+        <folder path="/owlapi-fixers/src"/>
+        <javaElement handleIdentifier="=IPPRProjectFiles/src"/>
+        <file path="/owlapi-apibinding/.classpath"/>
+        <javaElement handleIdentifier="=owlapi-oboformat"/>
+        <file path="/owlapi-impl/.project"/>
+        <javaElement handleIdentifier="=owlapi-osgidistribution"/>
+        <file path="/owlapi-impl/pom.xml"/>
+        <file path="/owlapi-rio/.project"/>
+        <folder path="/owlapi-impl/src"/>
+        <javaElement handleIdentifier="=owlapi-impl/src\/main\/java"/>
+        <javaElement handleIdentifier="=owlapi-distribution"/>
+        <file path="/owlapi-impl/.classpath"/>
+        <file path="/owlapi-fixers/.project"/>
+        <file path="/owlapi-rio/pom.xml"/>
+        <folder path="/owlapi-apibinding/target"/>
+        <folder path="/owlapi-rio/src"/>
+        <file path="/owlapi-fixers/pom.xml"/>
+        <javaElement handleIdentifier="=owlapi-parsers"/>
+        <file path="/IPPRProjectFiles/.project"/>
+        <javaElement handleIdentifier="=owlapi-apibinding/src\/main\/java"/>
+        <folder path="/owlapi-apibinding/src"/>
+        <javaElement handleIdentifier="=owlapi-fixers/src\/main\/java"/>
+        <javaElement handleIdentifier="=owlapi-rio/src\/main\/resources"/>
+        <javaElement handleIdentifier="=owlapi-apibinding/src\/main\/resources"/>
+        <javaElement handleIdentifier="=owlapi-contract"/>
+        <javaElement handleIdentifier="=owlapi-rio/src\/main\/java"/>
+        <file path="/owlapi-fixers/.classpath"/>
+        <file path="/IPPRProjectFiles/.classpath"/>
+        <javaElement handleIdentifier="=owlapi-impl/src\/test\/java"/>
+        <javaElement handleIdentifier="=owlapi-fixers/src\/test\/java"/>
+        <javaElement handleIdentifier="=owlapi-api"/>
+        <javaElement handleIdentifier="=owlapi-tools"/>
+        <folder path="/owlapi-impl/target"/>
+        <javaElement handleIdentifier="=owlapi-compatibility"/>
+        <folder path="/owlapi-rio/target"/>
+        <file path="/owlapi-apibinding/.project"/>
+    </selectedElements>
+</jardesc>
